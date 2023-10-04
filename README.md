@@ -1,6 +1,13 @@
 # Montana Tech GitHub Basics Lab
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
+## Submission Information
+**Name:** Donald Summers
+**Course:** CSCI 232 Sec 01 :Data Structures and Algorithms
+**Due:** ???
+**GitHub:** [view the rest of my GitHub here](https://github.com/RedSamurott)
+**Favorite Movies**: Megamind, Avengers: Infinity War, Hamilton(Disney+ Version)
+
 ## Objectives
 - Learn how to fork a repository
 - Learn how to clone a repository
